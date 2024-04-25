@@ -1,0 +1,1 @@
+This is project for transliteration correction for Indian words that are written in English corpora
